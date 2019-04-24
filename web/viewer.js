@@ -5125,7 +5125,7 @@ var defaultOptions = {
     kind: OptionKind.VIEWER
   },
   defaultUrl: {
-    value: 'compressed.tracemonkey-pldi-09.pdf',
+    value: '2019李晓琳UI设计作品集.pdf',
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
